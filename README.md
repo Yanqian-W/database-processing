@@ -1,2 +1,6 @@
-# database-processing
-In the superstore database, define functions to extract data based on dates and calculate weekly profits
+# Database Processing
+
+Superstore.xls contains business data for an online superstore in the United States.
+
+- Use the `datetime` library for date operations, define functions to extract data
+- Calculate weekly profits
